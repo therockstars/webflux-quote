@@ -17,6 +17,8 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 /**
  * Integration Test
+ *
+ * The first test method creates the stream with only 20 and the second one takes 10 from the entire stream.
  */
 
 @RunWith(SpringRunner.class)
